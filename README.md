@@ -2,7 +2,7 @@
 
 **GearGuard** is a modern, web-based platform designed to streamline equipment maintenance, track repairs, and manage maintenance teams efficiently. Built with performance and user experience in mind, it bridges the gap between complex industrial requirements and intuitive design.
 
-## 🚀 Features
+## 🚀 FeatureS
 
 -   **Dashboard Analytics**: Real-time overview of equipment status, active requests, and maintenance health.
 -   **Asset Management**: detailed records of all equipment, including warranties, breakdown history, and location.
